@@ -1,4 +1,4 @@
-# Neural-Networks-for-digit-speech-recognition
+# Neural Networks for digit speech recognition
 
 This project demonstrates the utilization of Neural Networks and machine learning that can distinguish numbers from 0-9 with a great accuracy.
 
